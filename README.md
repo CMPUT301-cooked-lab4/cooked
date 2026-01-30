@@ -1,7 +1,7 @@
 # CMPUT 301 • cooked Lab 4 • Participation Exercise
 
-# Name:Hao Tian
+# Name:Yue Gao
 
-# CCID: htian9
+# CCID: gao28
 
 **Please double check thet you are on your personal "your-name" branch and not on master or forked!
